@@ -16,6 +16,7 @@ body {
   box-shadow: 1px 1px 1px #333;
   padding: 10px;
   overflow: hidden;
+  z-index: 2;
 }
 
 .back:hover {

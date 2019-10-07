@@ -20,6 +20,21 @@ const IndexPage = () => (
         <li>
           <Link to="/interactions">Interactions</Link>
         </li>
+        <li>
+          <Link to="/star-shower">Star shower</Link>
+        </li>
+        <li>
+          <Link to="/gravity">Gravity</Link>
+        </li>
+        <li>
+          <Link to="/circular-motion">Circular motion</Link>
+        </li>
+        <li>
+          <Link to="/colission-detection">Collision detection</Link>
+        </li>
+        <li>
+          <Link to="/sine-waves">Sine-waves</Link>
+        </li>
       </ul>
     </nav>
   </Layout>
